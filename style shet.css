@@ -1,0 +1,5 @@
+.hero5_img{
+    background-image: url(hero5_img.jpg);
+    background-size: cover;
+    height: 100vh;
+}
