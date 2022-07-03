@@ -15,7 +15,7 @@ p{
     text-align: justify;
     right: 25%;
     left: 25%;
-    padding: 5%;
+    padding:1%;
 }
 .hero_wrapper{
     color:whitesmoke;
@@ -51,4 +51,8 @@ button{
    border: none;
    border-radius: .3rem;
 }
+div{
+    margin: 2px;
+    padding-left: 8%;
 
+}
